@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaime Barreto.
 - 👀 I’m interested in Mobile Apps Development.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning/working on React Native.
 - 📫 How to reach me: https://www.linkedin.com/in/jaimebg/
 
 <!---
