@@ -21,7 +21,7 @@ Experienced developer with 5+ years building cross-platform mobile solutions. Fr
 
 ## Featured Public Projects
 
-- **[Plotline](https://github.com/jaimebg/Plotline)** - iOS app to explore the audiovisual universe with analytical quality visualization (Swift)
+- **[Plotline](https://github.com/jaimebg/Plotline)** - iOS app to explore the audiovisual universe with analytical quality visualization (SwiftUI)
 - **[CestApp](https://github.com/jaimebg/CestApp)** - Privacy-first receipt scanner (Expo)
 - **[PopcornQueue](https://github.com/jaimebg/PopcornQueue)** - Movie discovery tool powered by TMDB (React-Native)
 
