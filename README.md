@@ -19,7 +19,7 @@ Experienced developer with 5+ years building cross-platform mobile solutions. Fr
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Featured Projects
+## Featured Public Projects
 
 - **[Plotline](https://github.com/jaimebg/Plotline)** - iOS app to explore the audiovisual universe with analytical quality visualization (Swift)
 - **[CestApp](https://github.com/jaimebg/CestApp)** - Privacy-first receipt scanner (Expo)
