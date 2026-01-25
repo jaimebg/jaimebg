@@ -28,6 +28,7 @@ Experienced developer with 5+ years building cross-platform mobile solutions. Fr
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jbgsoft.com-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jbgsoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimebg/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimebgar@gmail.com)
 
