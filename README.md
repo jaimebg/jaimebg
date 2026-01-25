@@ -8,6 +8,7 @@ Experienced developer with 5+ years building cross-platform mobile solutions. Fr
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -23,7 +24,7 @@ Experienced developer with 5+ years building cross-platform mobile solutions. Fr
 
 - **[Plotline](https://github.com/jaimebg/Plotline)** - iOS app to explore the audiovisual universe with analytical quality visualization (SwiftUI)
 - **[CestApp](https://github.com/jaimebg/CestApp)** - Privacy-first receipt scanner (Expo)
-- **[PopcornQueue](https://github.com/jaimebg/PopcornQueue)** - Movie discovery tool powered by TMDB (React-Native)
+- **[Ambio](https://github.com/jaimebg/Ambio)** - Focus timer with ambient sounds for deep work sessions (Kotlin/Jetpack Compose)
 
 ## Connect
 
