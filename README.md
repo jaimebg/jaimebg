@@ -2,7 +2,7 @@
 
 **Mobile Apps Developer** from the Canary Islands, Spain
 
-Experienced developer with 5+ years building cross-platform mobile solutions. From cryptocurrency wallets to e-commerce apps, I deliver production-ready applications for iOS and Android.
+Experienced developer with 6+ years building cross-platform mobile solutions. From cryptocurrency wallets to e-commerce apps, I deliver production-ready applications for iOS and Android.
 
 ## Skills
 
