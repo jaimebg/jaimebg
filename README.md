@@ -20,11 +20,15 @@ Experienced developer with 6+ years building cross-platform mobile solutions. Fr
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Featured Public Projects
+## Featured Projects
+
+- **[EuroFans](https://jbgsoft.com/eurofans)** - Android & iOS Eurovision fan engagement app with an Expo SDK mobile frontend, drizzle ORM, PostgreSQL database and Fastify backend (React Native - Expo | Fastify | PostgreSQL | Drizzle)
+
+## Featured Open Source Projects
 
 - **[Plotline](https://github.com/jaimebg/Plotline)** - iOS app to explore the audiovisual universe with analytical quality visualization (SwiftUI)
-- **[CestApp](https://github.com/jaimebg/CestApp)** - Privacy-first receipt scanner (Expo)
-- **[Ambio](https://github.com/jaimebg/Ambio)** - Focus timer with ambient sounds for deep work sessions (Kotlin/Jetpack Compose)
+- **[CestApp](https://github.com/jaimebg/CestApp)** - Android & iOS privacy-first spanish supermarkets receipt scanner app (React Native - Expo)
+- **[Ambio](https://github.com/jaimebg/Ambio)** - Android focus timer with ambient sounds for deep work sessions app (Kotlin/Jetpack Compose)
 
 ## Connect
 
