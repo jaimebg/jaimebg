@@ -11,7 +11,7 @@ Experienced developer with 6+ years building cross-platform mobile solutions. Fr
 ## Featured Projects
 
 - **[EuroFans](https://jbgsoft.com/eurofans)** - Android & iOS Eurovision fan engagement app with an Expo SDK mobile frontend, drizzle ORM, PostgreSQL database and Fastify backend (React Native - Expo | Fastify | PostgreSQL | Drizzle)
-- **[@dosis](https://jbgsoft.com/dosis)** - Medication management and reminder app (React Native - Expo)
+- **[Dosis](https://jbgsoft.com/dosis)** - Medication management and reminder app (React Native - Expo)
 
 ## Featured Open Source Projects
 
