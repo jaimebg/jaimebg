@@ -20,7 +20,7 @@ Experienced developer with 6+ years building cross-platform mobile solutions. Fr
 **Tooling**
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
-I build with coding agents in the loop — spec and design first, then let Claude Code and Codex handle the mechanical work while I own the architecture and review every diff.
+I build with coding agents in the loop, spec and design first, then let Claude Code handle the mechanical work while I own the architecture and review every diff.
 
 ## Open Source
 
