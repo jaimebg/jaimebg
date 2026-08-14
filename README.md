@@ -1,8 +1,8 @@
 # Hi, I'm Jaime Barreto
 
-**Mobile Apps Developer** from the Canary Islands, Spain
+**Senior Mobile Engineer** from the Canary Islands, Spain
 
-Experienced developer with 6+ years building cross-platform mobile solutions. From cryptocurrency wallets to e-commerce apps, I deliver production-ready applications for iOS and Android.
+Senior Mobile Engineer with 6+ years shipping production React Native + TypeScript apps to the App Store and Google Play, plus fully native apps in Kotlin/Jetpack Compose and Swift/SwiftUI live on the stores. Have taken three products from empty repo to public release single-handedly: architecture, animations with Reanimated and Gesture Handler, Figma-to-code UI, Node.js/PostgreSQL APIs, on-device and LLM-backed AI features, automated testing, and Fastlane release pipelines. Build daily with Claude Code and opencode in the loop. Apps used by 300k+ users across social, e-commerce, fintech, and crypto.
 
 ## Projects
 
