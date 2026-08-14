@@ -2,7 +2,7 @@
 
 **Senior Mobile Engineer** from the Canary Islands, Spain
 
-Senior Mobile Engineer with 6+ years shipping production React Native + TypeScript apps to the App Store and Google Play, plus fully native apps in Kotlin/Jetpack Compose and Swift/SwiftUI live on the stores. Have taken three products from empty repo to public release single-handedly: architecture, animations with Reanimated and Gesture Handler, Figma-to-code UI, Node.js/PostgreSQL APIs, on-device and LLM-backed AI features, automated testing, and Fastlane release pipelines. Build daily with Claude Code and opencode in the loop. Apps used by 300k+ users across social, e-commerce, fintech, and crypto.
+6+ years shipping production React Native + TypeScript apps to the App Store and Google Play, plus fully native Kotlin/Jetpack Compose and Swift/SwiftUI apps live on the stores. I've taken three products from empty repo to public release on my own: architecture, Reanimated and Gesture Handler animations, Figma-to-code UI, Node.js/PostgreSQL APIs, on-device and LLM-backed AI features, automated testing, and Fastlane release pipelines. I build daily with Claude Code and opencode. Apps used by 300k+ users across social, e-commerce, fintech, and crypto.
 
 ## Projects
 
@@ -26,7 +26,7 @@ Senior Mobile Engineer with 6+ years shipping production React Native + TypeScri
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimebg/CestApp) [![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/cestapp)
 
-**Plotline** — Open-source iOS app that analyses TV series episode by episode: a 0–100 Plotline Score, the season after which quality drops and never recovers, how consistent the series is, and whether it lands its ending — every verdict shown with the episode ratings behind it. 122 series bundled offline.
+**Plotline** — iOS app that analyses TV series episode by episode: a 0–100 Plotline Score, the season after which quality drops and never recovers, how consistent the series is, and whether it lands its ending — every verdict shown with the episode ratings behind it. 122 series bundled offline.
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-005FAB?style=flat&logo=swift&logoColor=white) ![Swift Charts](https://img.shields.io/badge/Swift_Charts-005FAB?style=flat&logo=swift&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
@@ -62,8 +62,6 @@ Senior Mobile Engineer with 6+ years shipping production React Native + TypeScri
 
 **Tooling**
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
-
-I build with coding agents in the loop, spec and design first, then let Claude Code handle the mechanical work while I own the architecture and review every diff.
 
 ## Connect
 
