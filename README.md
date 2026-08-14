@@ -4,14 +4,15 @@
 
 Experienced developer with 6+ years building cross-platform mobile solutions. From cryptocurrency wallets to e-commerce apps, I deliver production-ready applications for iOS and Android.
 
-## What I'm working on
-
-- **[Douze](https://jbgsoft.com/douze)** — Eurovision fan engagement app: Expo client on top of a Fastify + PostgreSQL backend
-- **[CestApp](https://github.com/jaimebg/CestApp)** — privacy-first receipt scanner for Spanish supermarkets
-
 ## Projects
 
 ### 📱 Mobile Apps
+
+**Douze** — Eurovision fan engagement platform: personal rankings, head-to-head duels, contest history back to 1956, national finals and the global fan community. Closed source.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+[![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/douze) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/douze/id1619799097) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jbgsoft.douze)
 
 **Ambio** — Android focus timer with ambient soundscapes and dynamic theming that follows the sound. Pomodoro presets, background playback, fully offline.
 
