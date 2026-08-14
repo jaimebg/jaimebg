@@ -30,7 +30,7 @@ Experienced developer with 6+ years building cross-platform mobile solutions. Fr
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-005FAB?style=flat&logo=swift&logoColor=white) ![Swift Charts](https://img.shields.io/badge/Swift_Charts-005FAB?style=flat&logo=swift&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat&logo=themoviedatabase&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimebg/Plotline) [![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/plotline)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimebg/Plotline) [![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/plotline) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/plotline-tv-film-analysis/id6759011313)
 
 ### 🤖 Bots & Automation
 
