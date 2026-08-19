@@ -18,7 +18,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimebg/Ambio) [![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/ambio) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jbgsoft.ambio)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaimebg/Ambio) [![Website](https://img.shields.io/badge/Website-jbgsoft.com-00D4AA?style=flat&logo=web&logoColor=white)](https://jbgsoft.com/ambio) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jbgsoft.ambio) [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=fdroid&logoColor=white)](https://f-droid.org/packages/com.jbgsoft.ambio/)
 
 **CestApp** — Privacy-first receipt scanner for Spanish supermarkets. On-device ML Kit OCR, offline SQLite storage and spending analytics.
 
